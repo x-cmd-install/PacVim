@@ -1,11 +1,13 @@
 about:
-  description: 
+  description:
+  |
+    
   license: LGPL-3.0
   homepage: 
   head: ca7c883
   archived: false
   latestVersion: v1.1.1
-  collectedAt: 2026-09-03T05:09:48Z
+  collectedAt: 2026-09-03T22:38:22Z
 timeline:
   created: 2014-11-22
   lastCommit: 2018-05-16
@@ -21,7 +23,7 @@ popularity:
 language:
   C++: 35303
   Makefile: 805
-totalLine: 36108
+totalBytes: 36108
 recent:
   last30d:
     since: 2026-08-04
