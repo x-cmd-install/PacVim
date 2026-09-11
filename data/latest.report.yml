@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.1.1"
   latestRelease: "v1.1.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:24:09Z
+  collectedAt: 2026-09-11T19:37:01Z
 timeline:
   created: 2014-11-22
   lastCommit: 2018-05-16
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2015-01-27
   lastPrerelease: 
 popularity:
-  star: 3327
+  star: 3328
   watcher: 56
   fork: 199
   release: 2
@@ -84,7 +84,7 @@ total:
   commit: 134
 ---
 path: /home/runner/.x-repo/github.com/jmoon018/PacVim
-collectedAt: 2026-09-11T05:24:09Z
+collectedAt: 2026-09-11T19:37:02Z
 loc:
   Cpp:
     code: 890
